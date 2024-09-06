@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @Jeanx7
+<!---especial repositorio sobre o github --->
+
+<!---comentario, serve para econder ou ocultar dados --->
+![neymar lindo](https://i.pinimg.com/originals/8b/fb/d7/8bfbd7c6ab5b702d450c301ef7628768.gif)
+
+- 👋 Oi, eu sou @Jeanx7
 - :+1: eu estou interessado em aprender novas linguagens de programaçao
 - :+1: I'm interested in learning new programming languages
 - 👀 
