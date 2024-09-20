@@ -3,7 +3,8 @@
 <!---comentario, serve para econder ou ocultar dados --->
 ![neymar](https://i.pinimg.com/originals/d9/ea/b6/d9eab6d4d898967c9f2ed50d6a1df38c.gif)
 
-- 👋 Oi, eu sou @Jeanx7
+# sobre mim **Jean**
+- 👋 **ola, eu sou @Jeann.xlx
 - :+1: eu estou interessado em aprender novas linguagens de programaçao
 - :+1: I'm interested in learning new programming languages
  
